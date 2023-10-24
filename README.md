@@ -30,6 +30,11 @@ it that can't be executed won't.
 | `rrb` | reverse rotate b                    | shifts all elements of stack b from top to bottom      |
 | `rrr` | reverse rotate a + reverse rotate b | both `rra` and `rrb`                                   |
 
+you can run it with:
+```sh
+  $> ./push_swap <list_of_numbers>
+```
+
 ## Makefile rules
 
 | Rule         |                 Description                             |
