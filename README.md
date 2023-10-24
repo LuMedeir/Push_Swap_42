@@ -1,6 +1,6 @@
 # Push Swap
 <p align="center">
-<img src="./img/push.png">
+<img src="./push.png">
 </p>
 
 <p align="center">
